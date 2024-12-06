@@ -1,13 +1,13 @@
 //
-//  Snip_AppUITestsLaunchTests.swift
-//  Snip AppUITests
+//  Snip_AppTests2LaunchTests.swift
+//  Snip AppTests2
 //
-//  Created by Chandu .. on 11/11/24.
+//  Created by Chandu .. on 11/22/24.
 //
 
 import XCTest
 
-final class Snip_AppUITestsLaunchTests: XCTestCase {
+final class Snip_AppTests2LaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
